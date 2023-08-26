@@ -64,3 +64,40 @@ p{
     width: 50px;
     margin-left: 50px;
 }
+@media only screen and (max-width: 600px) {
+    .page{
+        font-size: 40px;
+    }
+    #pagemain{
+        font-size: 40px;
+        margin-left: 700px;
+    }
+
+
+    #navbar{
+        height: 150px;
+    }
+    h2{
+        font-size: 40px;
+        width: 600px;
+    }
+h1{
+    margin-top: 250px;
+    font-size: 6rem;
+}
+p{
+    font-size: 40px;
+    width: 1200px;
+    text-align: center;
+    line-height: 60px;
+}
+#facebook{
+    width: 100px;
+}
+#instagram{
+    width: 100px;
+}
+#gmail{
+    width: 100px;
+}
+    }
