@@ -167,7 +167,7 @@ margin-right: 0;
 #text{
     margin-left: 0;
     font-size: 40px;
-    width: 500px;
+    width: 800px;
 }
 h3{
     font-size: 50px;
@@ -177,11 +177,11 @@ h3{
 #text2{
     margin-right: 0;
     font-size: 40px;
-    width: 500px;
+    width: 800px;
 }
 #footertext{
     font-size: 40px;
-    width: 600px;
+    width: 800px;
     text-align: center;
 }
 footer{
@@ -202,5 +202,18 @@ h2{
 }
 #mainimg{
    margin-top: -10px;
+}
+    #cattle{
+    width: 1150px;
+   
+}
+#palm{
+    width: 1150px;
+}
+#fish{
+    width: 1150px;
+}
+#maize{
+    width: 1150px;
 }
 }
