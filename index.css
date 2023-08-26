@@ -110,7 +110,7 @@ footer{
     display: flex;
     align-items: center;
     margin-left: 50px;
-
+width: 1250px;
 }
 #box2{
     display: flex;
@@ -118,12 +118,14 @@ footer{
     align-items: center;
     margin-right: 50px;
     margin-top: 100px;
+    width: 1250px;
 }
 #box3{
     display: flex;
     align-items: center;
     margin-left: 50px;
     margin-top: 100px;
+    width: 1250px;
 }
 #box4{
     display: flex;
@@ -131,4 +133,5 @@ footer{
     align-items: center;
     margin-right: 50px;
     margin-top: 100px;
+    width: 1250px;
 }
