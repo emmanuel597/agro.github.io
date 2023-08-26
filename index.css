@@ -148,4 +148,59 @@ span{
     font-size: 40px;
     margin-left: 700px;
 }
+    #box1{
+    flex-direction: column-reverse;
+    margin-left: 0;
+}
+#box2{
+    flex-direction: column-reverse;
+    margin-right: 0;
+}
+#box3{
+    flex-direction: column-reverse;
+    margin-left: 0;
+}
+#box4{
+    flex-direction: column-reverse;
+margin-right: 0;
+}
+#text{
+    margin-left: 0;
+    font-size: 40px;
+    width: 500px;
+}
+h3{
+    font-size: 50px;
+    width: 600px;
+    margin-left: 350px;
+}
+#text2{
+    margin-right: 0;
+    font-size: 40px;
+    width: 500px;
+}
+#footertext{
+    font-size: 40px;
+    width: 600px;
+    text-align: center;
+}
+footer{
+    height: 400px;
+    flex-direction: column;
+
+}
+#terms{
+    font-size: 40px;
+    margin-left: 0;
+}
+#navbar{
+    height: 150px;
+}
+h2{
+    font-size: 40px;
+    width: 600px;
+}
+#mainimg{
+   margin-top: -10px;
+}
 }
