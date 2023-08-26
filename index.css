@@ -144,5 +144,8 @@ span{
 .page{
     font-size: 40px;
 }
-
+#pagemain{
+    font-size: 40px;
+    margin-left: 700px;
+}
 }
