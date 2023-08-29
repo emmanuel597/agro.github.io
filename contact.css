@@ -73,3 +73,21 @@ line-height: 40px;
     width: 50px;
     margin-left: 50px;
 }
+@media only screen and (max-width: 600px) {
+.page{
+    font-size: 15px;
+    margin-left: 30px;
+}
+#pagemain{
+    font-size: 15px;
+    margin-left: 55%;
+}
+h2{
+    font-size: 15px;
+}
+#logo{
+    width: 30px;
+    margin-left: 30px;
+}
+
+    }
