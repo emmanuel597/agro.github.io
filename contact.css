@@ -45,12 +45,14 @@ h1{
     font-size: 4rem;
     margin-top: 100px;
    text-align: center;
+    scale: 1;
 }
 p{
     font-size: 20px;
 line-height: 40px;
     width: auto;
     text-align: center;
+    scale: 1;
 }
 #icons{
     display: flex;
