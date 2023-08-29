@@ -3,9 +3,10 @@
     top: 0;
     height: 60px;
     border-bottom: 1px solid black;
-    width: 1250px;
+    width: 100%;
     display: flex;
     align-items: center;
+left: 0;
 }
 #logo{
     width: 50px;
@@ -34,70 +35,38 @@ h2{
 #pagemain{
     color: black;
     text-decoration: none;
-    margin-left: 800px;
+    margin-left: 70%;
     font-size: 18px;
     font-family: 'Rubik', sans-serif; 
    
 }
 h1{
     font-size: 4rem;
-    width: 100px;
-    margin-left: 550px;
     margin-top: 100px;
-    
+   text-align: center;
 }
 p{
     font-size: 20px;
-    margin-left: 200px;
-    width: 1000px;
-}
-#facebook{
-    width: 50px;
-    margin-left: 500px;
-    margin-top: 90px;
-}
-#gmail{
-    width: 50px;
-    margin-left: 50px;
-}
-#instagram{
-    width: 50px;
-    margin-left: 50px;
-}
-@media only screen and (max-width: 600px) {
-    .page{
-        font-size: 40px;
-    }
-    #pagemain{
-        font-size: 40px;
-        margin-left: 700px;
-    }
-
-
-    #navbar{
-        height: 150px;
-    }
-    h2{
-        font-size: 40px;
-        width: 600px;
-    }
-h1{
-    margin-top: 250px;
-    font-size: 6rem;
-}
-p{
-    font-size: 40px;
-    width: 1200px;
+line-height: 40px;
+    width: auto;
     text-align: center;
-    line-height: 60px;
+}
+#icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
 }
 #facebook{
-    width: 100px;
-}
-#instagram{
-    width: 100px;
+    width: 50px;
 }
 #gmail{
-    width: 100px;
+    width: 50px;
+    margin-left: 50px;
 }
-    }
+#instagram{
+    width: 50px;
+    margin-left: 50px;
+}
