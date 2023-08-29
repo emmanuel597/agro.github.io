@@ -87,6 +87,7 @@ line-height: 40px;
 }
 h2{
     font-size: 15px;
+    display: none;
 }
 #logo{
     width: 30px;
