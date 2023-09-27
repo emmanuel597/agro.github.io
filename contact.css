@@ -15,8 +15,8 @@ left: 0;
 }
 #logoset{
     display: flex;
-    align-items: center;
-    position: absolute;
+    margin-top: 500px;
+    align-item: center;
     justify-content: center;
 }
 h2{
